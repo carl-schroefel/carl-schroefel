@@ -10,7 +10,7 @@ I’m not an engineer. But I believe working with IT leaders in banking means un
 
 ## 🔎 Areas I focus on
 
-### ☁️ Cloud & Infrastructure
+### ☁️ [Cloud & Infrastructure](https://github.com/carl-schroefel/banking-technology-landscape/tree/main/cloud)
 Azure · AWS · Cloud Transformation · Platform Engineering
 
 ### 📊 Data & AI
