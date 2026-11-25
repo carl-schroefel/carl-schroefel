@@ -1,49 +1,54 @@
-# Banking Technology
+# Banking × Technology
 
-**Banking. Technology. Transformation.**
+`> whoami`
 
-I work at the intersection of **banking, technology and external IT expertise**, with a particular focus on international banks and financial institutions.
+**Carl Schroefel**  
+Banking / Technology / Frankfurt
 
-I’m not an engineer. But I believe working with IT leaders in banking means understanding their technology, challenges and language, not just their hiring needs. This GitHub is my way of doing exactly that.
+> I'm not an engineer. But I believe working with IT leaders in banking means understanding their technology, challenges and language, not just their hiring needs.
 
----
-
-## 🔎 Areas I focus on
-
-### ☁️ [Cloud & Infrastructure](https://github.com/carl-schroefel/banking-technology-landscape/tree/main/cloud)
-Azure · AWS · Cloud Transformation · Platform Engineering
-
-### 📊 Data & AI
-Data Platforms · Data Governance · AI · Analytics · BCBS 239
-
-### 🔐 Cyber Security
-IAM · ICT Risk · Operational Resilience · Third-Party Risk
-
-### 🏗️ Architecture
-Enterprise Architecture · Solution Architecture · Integration · APIs
-
-### 💻 Software Engineering
-Modern Application Development · DevOps · CI/CD · Cloud-native Development
-
-### 🏦 Banking & Regulation
-DORA · MaRisk · BCBS 239 · Regulatory Technology
+This GitHub is my slightly unconventional business card.
 
 ---
 
-## 👋 What I do
+## `01 / PORTFOLIO`
 
-I work with banks and financial institutions on complex IT and transformation requirements, supporting them with specialized external expertise.
+### 🗺️ Banking Technology Landscape
 
-My professional focus is on understanding **what banks are building, transforming and regulating** and which technological capabilities are required to deliver it.
+A compact view of the technologies, architectures and regulatory topics I encounter across Banking IT.
 
----
+**https://github.com/carl-schroefel/banking-technology-landscape**
 
-## 💡 Topics I'm currently exploring
-
-`Cloud Transformation` `Data Platforms` `AI` `DORA` `BCBS 239`
-
-`Cyber Security` `DevOps` `Enterprise Architecture` `RegTech`
+`Cloud` `Data & AI` `Cyber Security` `Architecture` `Software Engineering` `Payments` `RegTech`
 
 ---
 
-**📍 Frankfurt am Main** · **🏦 Banking & Financial Services**
+## `02 / PLAYGROUND`
+
+### 🎮 Banking IT, but slightly less serious.
+
+Small experiments, games and other ways to explore Banking Technology.
+
+**Coming soon**
+
+`Banking IT Buzzword Bingo` · `DORA or Dinosaur?` · `Build your Bank Tech Stack`
+
+---
+
+## `03 / CONNECT`
+
+### ☕ Let's talk.
+
+No sales deck required.
+
+**📧 Email**  
+carl.schroefel@hays.de
+
+**💼 LinkedIn**  
+https://www.linkedin.com/in/carl-justin-schroefel/
+
+**📅 Microsoft Bookings**  
+Coming soon
+
+**💬 Microsoft Teams**  
+Coming soon
