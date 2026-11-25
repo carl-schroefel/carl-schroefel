@@ -1,15 +1,21 @@
-# Banking × Technology
+```console
+carl@banking-tech:~$ whoami
 
-`> whoami`
+CARL SCHROEFEL
+Banking × Technology
 
-**Carl Schroefel**  
-Banking / Technology / Frankfurt
+> translating_technology_into_conversations
+> connecting_banking_with_external_expertise
+> building_a_different_kind_of_business_card
 
-> I'm not an engineer. But I believe working with IT leaders in banking means understanding their technology, challenges and language, not just their hiring needs.
+carl@banking-tech:~$ ls
 
-This GitHub is my slightly unconventional business card.
+01_PORTFOLIO/
+02_PLAYGROUND/
+03_CONNECT/
 
----
+carl@banking-tech:~$ _
+```
 
 ## `01 / PORTFOLIO`
 
