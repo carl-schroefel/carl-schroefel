@@ -38,7 +38,7 @@ A compact view of the technologies, architectures and regulatory topics I encoun
 
 Small experiments and games from the world of Banking Technology.
 
-**→ Banking IT Buzzword Bingo**
+**[→ Banking IT Buzzword Bingo](https://carl-schroefel.github.io/banking-it-buzzword-bingo/)**
 
 *How many did you hear in meetings this week?*
 
