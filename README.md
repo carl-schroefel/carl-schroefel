@@ -1,8 +1,13 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
+  <img alt="Banking Technology - Carl Schroefel" src="./assets/hero-light.png">
+</picture>
+
+<br>
+
 ```console
 carl@banking-tech:~$ whoami
-
-CARL SCHROEFEL
-Banking × Technology
 
 > translating_technology_into_conversations
 > connecting_banking_with_external_expertise
@@ -10,9 +15,7 @@ Banking × Technology
 
 carl@banking-tech:~$ ls
 
-01_PORTFOLIO/
-02_PLAYGROUND/
-03_CONNECT/
+> open_for_conversation
 
 carl@banking-tech:~$ _
 ```
@@ -58,3 +61,4 @@ Coming soon
 
 **💬 Microsoft Teams**  
 Coming soon
+
