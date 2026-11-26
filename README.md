@@ -36,11 +36,13 @@ A compact view of the technologies, architectures and regulatory topics I encoun
 
 ### 🎮 Banking IT, but slightly less serious.
 
-Small experiments, games and other ways to explore Banking Technology.
+Small experiments and games from the world of Banking Technology.
 
-**Coming soon**
+**→ Banking IT Buzzword Bingo**
 
-`Banking IT Buzzword Bingo` · `DORA or Dinosaur?` · `Build your Bank Tech Stack`
+*How many did you hear in meetings this week?*
+
+`More experiments coming soon.`
 
 ---
 
